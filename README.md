@@ -14,7 +14,7 @@ The functionality of the script includes:
 
 ## Install batdetect2
 
-Follow the instructions for installing *batdetect2* from [here](https://github.com/macaodha/batdetect2).
+Follow the instructions for installing *batdetect2* from [https://github.com/macaodha/batdetect2](https://github.com/macaodha/batdetect2).
 
 ## Usage of the Command Line Interface
 
