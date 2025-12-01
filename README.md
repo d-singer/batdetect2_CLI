@@ -1,6 +1,6 @@
 # Command Line Interface for batdetect2
 
-This repository provides a Python script to enable command line interface (CLI) usage of *batdetect2* for batch analysis of large audio datasets in bat monitoring programs and research studies.
+This repository provides a Python script to enable command line interface (CLI) usage of *batdetect2* ([https://github.com/macaodha/batdetect2](https://github.com/macaodha/batdetect2)) for batch analysis of large audio datasets in bat monitoring programs and research studies.
 
 It adds some extra functionality to *batdetect2* that proved helpful when analyzing large amounts of audio data from an acoustic bat monitoring program in German forests ([https://doi.org/10.5281/zenodo.14535158](https://doi.org/10.5281/zenodo.14535158)). The development of the CLI approach for *batdetect2* was inspired by the great experience with the CLI usage of the *BirdNET Analyzer* ([https://github.com/BirdNET-Team/BirdNET-Analyzer](https://github.com/BirdNET-Team/BirdNET-Analyzer)).
 
